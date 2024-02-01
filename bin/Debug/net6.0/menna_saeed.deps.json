@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "menna_saeed/1.0.0": {
+        "runtime": {
+          "menna_saeed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "menna_saeed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
